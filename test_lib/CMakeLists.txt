@@ -1,0 +1,1 @@
+add_library(test_lib factorial_function.cpp)
